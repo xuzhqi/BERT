@@ -2,6 +2,7 @@
 bert finetune and inference with gluonnlp  
 
 # Dependencies
+* python==3.6
 * mxnet-cu100==1.6.0
 * gluonnlp==0.9.1
 
